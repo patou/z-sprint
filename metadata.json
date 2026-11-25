@@ -1,0 +1,6 @@
+{
+  "name": "Z-Sprint — Course d'Athlétisme Rétro",
+  "description": "Jeu de course d'athlétisme rétro pixel art à 3 pistes développé avec Phaser 3 et TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
